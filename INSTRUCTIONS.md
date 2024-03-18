@@ -20,6 +20,49 @@
 
 `npx shadcn-ui@latest add button`
 
+### Structure 
+
+...
+
+### Concex Clerk
+
+convex setup: https://docs.convex.dev/quickstart/nextjs
+``` 
+npm i convex@1.8.0
+npx convex dev - "a new project" - <enter>
+[2]: npm run dev
+convex.dev: login - open created project
+.
+clerk.com - login - create app: "antonio-miro-clone - 
+```
+
+clerk setup: https://clerk.com/ - login - add application
+```
+application name: antonio-miro-clone
+create application
+copy API KEYS to .env
+.gitignore .env
+npm i @clerk/nextjs@4.29.5
+```
+
+convex clerk tutorial: https://docs.convex.dev/auth/clerk
+```
+clerk dashboard - jwt templates - new template: "convex" - copy issuer field to convex/auth.config.js
+npx convex dev  (validate is ready)
+[2]: npm run dev
+clerk dashboard - customization/branding - hide clerk branding: "on"
+```
+
+.env.local
+```
+CONVEX_DEPLOYMENT=
+
+NEXT_PUBLIC_CONVEX_URL=
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+```
+
 ### Deployment
 
 foreach
