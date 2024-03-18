@@ -86,6 +86,14 @@ localhost: create new account - create an org - name: "invite-test" - invite fir
 - email - accept invite - validate "invite-test" org is added
 ```
 
+### Navbar
+
+```
+npx shadcn-ui@latest add input
+npm i query-string@8.1.0 usehooks-ts@2.10.0
+localhost: login as first account - remove "two" org - validate "invite members" not shown
+```
+
 ### Deployment
 
 foreach
