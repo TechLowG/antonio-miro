@@ -63,6 +63,22 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 ```
 
+### Dashboard layout
+
+...
+
+### Sidebar
+
+```
+clerk dashboard: organizations - enable organizations
+- jwt templates - convex - claims: add "org_role" & "org_id" - save changes
+clerk dashboard: customizations - avatars - Default organization logo - initials - save changes
+.
+npx shadcn-ui@latest add dialog tooltip
+localhost: login - create organization (+) - name: "test" - create org - skip
+- create organization (+) - name: "two" - create org - skip
+```
+
 ### Deployment
 
 foreach
