@@ -79,6 +79,13 @@ localhost: login - create organization (+) - name: "test" - create org - skip
 - create organization (+) - name: "two" - create org - skip
 ```
 
+### Organisation sidebar
+
+```
+localhost: create new account - create an org - name: "invite-test" - invite first account, role: member
+- email - accept invite - validate "invite-test" org is added
+```
+
 ### Deployment
 
 foreach
