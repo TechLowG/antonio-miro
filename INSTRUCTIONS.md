@@ -94,6 +94,10 @@ npm i query-string@8.1.0 usehooks-ts@2.10.0
 localhost: login as first account - remove "two" org - validate "invite members" not shown
 ```
 
+### Empty states
+
+...
+
 ### Deployment
 
 foreach
