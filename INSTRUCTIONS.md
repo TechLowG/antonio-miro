@@ -194,6 +194,10 @@ npm i nanoid@5.0.4
 localhost: board - insert layer
 ```
 
+### Select layer
+
+localhost: view selection of second user
+
 ### Deployment
 
 foreach
