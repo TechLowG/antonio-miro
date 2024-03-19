@@ -140,6 +140,17 @@ localhost: search boards
 
 open a board
 
+### Liveblocks
+
+```
+liveblocks.io: login - projects/development
+npm i @liveblocks/client@1.9.7 @liveblocks/react@1.9.7
+npx create-liveblocks-app@latest --init --framework react - y x3 - generate liveblock.config.ts (replace with org.repo)
+- apikey tab - copy public key to liveblock.config.ts /* Do not commit key! */
+localhost: open a board
+liveblock.io - rooms tab - show new room id
+```
+
 ### Deployment
 
 foreach
