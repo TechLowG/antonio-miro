@@ -179,6 +179,10 @@ localhost: open a board - users in corner, invite to view more
 
 ...
 
+### Canvas state
+
+...
+
 ### Deployment
 
 foreach
