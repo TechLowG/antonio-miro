@@ -136,6 +136,10 @@ npm i convex-helpers@0.1.14
 localhost: search boards
 ```
 
+### Canvas layout
+
+open a board
+
 ### Deployment
 
 foreach
