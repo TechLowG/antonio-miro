@@ -187,6 +187,13 @@ localhost: open a board - users in corner, invite to view more
 
 localhost: board - view cursor of invited user
 
+### Insert layer
+
+``` 
+npm i nanoid@5.0.4
+localhost: board - insert layer
+```
+
 ### Deployment
 
 foreach
