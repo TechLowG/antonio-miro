@@ -175,6 +175,10 @@ npx shadcn-ui@latest add avatar
 localhost: open a board - users in corner, invite to view more
 ```
 
+### Room toolbar
+
+...
+
 ### Deployment
 
 foreach
