@@ -129,6 +129,13 @@ localhost: login - organization - board item - options - change title - save
 
 ...
 
+### Querying
+
+```
+npm i convex-helpers@0.1.14
+localhost: search boards
+```
+
 ### Deployment
 
 foreach
