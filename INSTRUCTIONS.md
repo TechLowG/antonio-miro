@@ -151,6 +151,18 @@ localhost: open a board
 liveblock.io - rooms tab - show new room id
 ```
 
+### Room auth
+
+```
+npm i @liveblocks/node@1.9.7
+liveblock.io: apikey tab - real & copy secret key to .env
+```
+
+.env
+```
+LIVEBLOCKS_SECRET_KEY=
+```
+
 ### Deployment
 
 foreach
