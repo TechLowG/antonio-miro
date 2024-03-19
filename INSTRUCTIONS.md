@@ -183,6 +183,10 @@ localhost: open a board - users in corner, invite to view more
 
 ...
 
+### Cursors presence
+
+localhost: board - view cursor of invited user
+
 ### Deployment
 
 foreach
