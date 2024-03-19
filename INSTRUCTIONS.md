@@ -117,6 +117,14 @@ npx shadcn-ui@latest add skeleton
 npm i date-fns@3.3.1
 ```
 
+### Card actions
+
+```
+npx shadcn-ui@latest add dropdown-menu alert-dialog
+npm i zustand@4.5.0
+localhost: login - organization - board item - options - change title - save
+```
+
 ### Deployment
 
 foreach

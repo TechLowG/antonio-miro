@@ -4,6 +4,7 @@ import { Suspense } from "react";
 
 import "./globals.css";
 
+import { ModalProvider } from "@/providers/modal-provider";
 import { ConvexClientProvider } from "@/providers/convex-client-provider";
 import { Loading } from "@/components/auth/loading";
 import { Toaster } from "@/components/ui/sonner";
@@ -26,6 +27,7 @@ export default function RootLayout({
         <Suspense fallback={<Loading />}>
           <ConvexClientProvider>
             <Toaster />
+            <ModalProvider />
             {children}
           </ConvexClientProvider>
         </Suspense>
