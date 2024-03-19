@@ -125,6 +125,10 @@ npm i zustand@4.5.0
 localhost: login - organization - board item - options - change title - save
 ```
 
+### Favorite
+
+...
+
 ### Deployment
 
 foreach
