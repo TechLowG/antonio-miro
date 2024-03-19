@@ -110,6 +110,13 @@ localhost: login - organization - create board
 convex.dev: app - data/tables/boards - 1 new document
 ```
 
+### Board list
+
+```
+npx shadcn-ui@latest add skeleton
+npm i date-fns@3.3.1
+```
+
 ### Deployment
 
 foreach
