@@ -156,12 +156,17 @@ liveblock.io - rooms tab - show new room id
 ```
 npm i @liveblocks/node@1.9.7
 liveblock.io: apikey tab - real & copy secret key to .env
+localhost: open a board - validate console name & picture
 ```
 
 .env
 ```
 LIVEBLOCKS_SECRET_KEY=
 ```
+
+### Room info
+
+localhost: open a board - validate edit title in toolbar
 
 ### Deployment
 
