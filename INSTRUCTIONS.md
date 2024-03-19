@@ -98,6 +98,18 @@ localhost: login as first account - remove "two" org - validate "invite members"
 
 ...
 
+### Create mutation
+
+```
+add convex/schema.ts
+npx convex dev
+convex.dev: app - data/tables/boards - preview at "show schema"
+add convex/board.ts
+npx shadcn-ui@latest add sonner
+localhost: login - organization - create board
+convex.dev: app - data/tables/boards - 1 new document
+```
+
 ### Deployment
 
 foreach
