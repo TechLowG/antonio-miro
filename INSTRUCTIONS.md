@@ -198,6 +198,10 @@ localhost: board - insert layer
 
 localhost: view selection of second user
 
+### Selection box
+
+localhost: selected layer show resize option
+
 ### Deployment
 
 foreach
