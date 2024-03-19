@@ -168,6 +168,13 @@ LIVEBLOCKS_SECRET_KEY=
 
 localhost: open a board - validate edit title in toolbar
 
+### Participants
+
+```
+npx shadcn-ui@latest add avatar
+localhost: open a board - users in corner, invite to view more
+```
+
 ### Deployment
 
 foreach
