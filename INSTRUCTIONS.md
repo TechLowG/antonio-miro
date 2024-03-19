@@ -206,6 +206,10 @@ localhost: selected layer show resize option
 
 localhost: selected layer can be resized (has bug!)
 
+### Translate layer
+
+localhost: move & fix to resize layer
+
 ### Deployment
 
 foreach
