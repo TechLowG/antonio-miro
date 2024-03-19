@@ -202,6 +202,10 @@ localhost: view selection of second user
 
 localhost: selected layer show resize option
 
+### Resize layer
+
+localhost: selected layer can be resized (has bug!)
+
 ### Deployment
 
 foreach
