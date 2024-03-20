@@ -210,6 +210,10 @@ localhost: selected layer can be resized (has bug!)
 
 localhost: move & fix to resize layer
 
+### Color & delete
+
+...
+
 ### Deployment
 
 foreach
