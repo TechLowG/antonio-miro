@@ -1,6 +1,6 @@
 ### Initial Setup
 
-`npx create-next-app@14.0.4 antonio-nextauth5-clone`
+`npx create-next-app@14.1.0 antonio-miro-clone`
 ```
 √ Would you like to use TypeScript? Yes
 √ Would you like to use ESLint? Yes
