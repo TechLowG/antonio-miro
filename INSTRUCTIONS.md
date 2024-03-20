@@ -214,6 +214,20 @@ localhost: move & fix to resize layer
 
 ...
 
+### Layer depth
+
+...
+
+### Selection net
+
+...
+
+### Other elements
+
+...
+
+
+
 ### Deployment
 
 foreach
