@@ -226,7 +226,9 @@ localhost: move & fix to resize layer
 
 ...
 
+### Pencil
 
+`npm i perfect-freehand@1.2.0`
 
 ### Deployment
 
