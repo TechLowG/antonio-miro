@@ -22,7 +22,6 @@ export const SearchInput = () => {
   };
 
   useEffect(() => {
-    console.log('something')
     const url = qs.stringifyUrl({
       url: "/",
       query: {

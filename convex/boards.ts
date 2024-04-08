@@ -10,8 +10,6 @@ export const get = query({
     favorites: v.optional(v.string()),
   },
   handler: async (ctx, args) => {
-    console.log('args', args)
-    console.log('ctx', ctx)
     const identity = await ctx.auth.getUserIdentity();
 
     if (!identity) {
@@ -41,8 +39,6 @@ export const get = query({
 
     const title = args.search as string;
     let boards = [];
-
-    console.log('title', title)
 
     if (title) {
       boards = await ctx.db
